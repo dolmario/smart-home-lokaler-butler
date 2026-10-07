@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-07",
+  "source": "Own original speaker text from video22, not newly executed house test",
+  "source_sha256": "7385a21b1083399bd495c22a602768d1949880ece8b72129e763223d0ab31545",
+  "own_project": "Python house aggregator called Hermes on ODROID H4; distinct from Nous Hermes AI agent",
+  "reported_learning": [
+    "Bot claimed a switched-off plug before it had a working tool",
+    "Briefing repeated after restart before durable state was implemented"
+  ],
+  "new_house_access": false,
+  "private_house_data_in_kit": false,
+  "full_original_application_in_kit": false
+}

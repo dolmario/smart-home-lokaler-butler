@@ -1,0 +1,1 @@
+date,source,unit,timestamp,freshness_limit,requested_state,actual_ack,observed_state,confirmed,briefing_event_id,persisted,delivery_confirmed,limitations

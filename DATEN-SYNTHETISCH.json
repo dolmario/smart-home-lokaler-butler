@@ -1,0 +1,66 @@
+{
+  "synthetic": true,
+  "now": "2026-10-07T07:00:00+00:00",
+  "max_age_seconds": 900,
+  "sensors": [
+    {
+      "id": "inside",
+      "label": "Inside",
+      "value": 12.0,
+      "unit": "degC dew point",
+      "at": "2026-10-07T06:58:00+00:00"
+    },
+    {
+      "id": "outside",
+      "label": "Outside",
+      "value": 8.0,
+      "unit": "degC dew point",
+      "at": "2026-10-07T06:59:00+00:00"
+    },
+    {
+      "id": "solar",
+      "label": "Solar power",
+      "value": 350,
+      "unit": "W",
+      "at": "2026-10-07T06:59:00+00:00"
+    },
+    {
+      "id": "battery",
+      "label": "Battery charge",
+      "value": 58,
+      "unit": "percent",
+      "at": "2026-10-07T06:57:00+00:00"
+    },
+    {
+      "id": "heat",
+      "label": "Heating supply",
+      "value": 41,
+      "unit": "degC",
+      "at": "2026-10-06T18:00:00+00:00"
+    }
+  ],
+  "calendar": [
+    {
+      "title": "Synthetic appointment",
+      "at": "2026-10-07T09:00:00+00:00"
+    },
+    {
+      "title": "Synthetic recycling collection",
+      "at": "2026-10-08T06:00:00+00:00"
+    }
+  ],
+  "switch_request": {
+    "id": "exercise-001",
+    "requested": "off",
+    "at": "2026-10-07T06:59:00+00:00"
+  },
+  "switch_ack": null,
+  "switch_observation": {
+    "state": "on",
+    "at": "2026-10-07T06:59:30+00:00"
+  },
+  "briefing": {
+    "day": "2026-10-07",
+    "event_id": "morning-2026-10-07"
+  }
+}
